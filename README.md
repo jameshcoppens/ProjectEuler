@@ -8,3 +8,5 @@ will be required to solve most problems.
 I have modified it to account for good programming exercises that keep a programmatic
 conversation going during an interview process. 
 
+* https://www.projecteuler.net <https://www.projecteuler.net>
+
